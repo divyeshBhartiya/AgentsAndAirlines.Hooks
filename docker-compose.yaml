@@ -1,4 +1,4 @@
-version: '3'
+version: '4'
 services:
   rabbitmq:
     image: "rabbitmq:3-management"
@@ -8,11 +8,11 @@ services:
       - "5672:5672"
     labels:
       NAME: "some-rabbit"
-  sqlserver:
-    image: "mcr.microsoft.com/mssql/server:2017-latest"
-    environment:
-      ACCEPT_EULA: "Y"
-      SA_PASSWORD: "pa55w0rd!"
-      MSSQL_PID: "Express"
-    ports:
-      - "1433:1433"
+  #sqlserver:
+  #  image: "mcr.microsoft.com/mssql/server:2017-latest"
+  #  environment:
+  #    ACCEPT_EULA: "Y"
+  #    SA_PASSWORD: "pa55w0rd!"
+  #    MSSQL_PID: "Express"
+  #  ports:
+  #    - "1440:1440"
