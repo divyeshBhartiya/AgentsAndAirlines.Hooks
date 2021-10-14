@@ -5,9 +5,14 @@ VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Airline.Web", "Airline.Web\Airline.Web.csproj", "{44AD333D-D27E-4ED6-ADF9-6CDEFDEF25EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirlineConsole.Agent", "AirlineConsole.Agent\AirlineConsole.Agent.csproj", "{3315F9AD-C66D-4C44-BD3E-9BFC59A277AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AirlineConsole.Agent", "AirlineConsole.Agent\AirlineConsole.Agent.csproj", "{3315F9AD-C66D-4C44-BD3E-9BFC59A277AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelAgent.Web", "TravelAgent.Web\TravelAgent.Web.csproj", "{53EEBA77-D009-4F94-9375-D01B42E31336}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TravelAgent.Web", "TravelAgent.Web\TravelAgent.Web.csproj", "{53EEBA77-D009-4F94-9375-D01B42E31336}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A3373DCF-8C84-4336-B5F6-56A0C461E9D8}"
+	ProjectSection(SolutionItems) = preProject
+		docker-compose.yaml = docker-compose.yaml
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
