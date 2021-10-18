@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "TravelAgent.Web": {
+    "TravelAgentWeb": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "swagger",

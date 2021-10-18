@@ -1,6 +1,6 @@
-﻿using Airline.Web.Dtos;
+﻿using AirlineWeb.Dtos;
 
-namespace Airline.Web.MessageBus
+namespace AirlineWeb.MessageBus
 {
     public interface IMessageBusClient
     {

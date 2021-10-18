@@ -1,4 +1,4 @@
-﻿using Airline.Web.Dtos;
+﻿using AirlineWeb.Dtos;
 using RabbitMQ.Client;
 using System;
 using System.Collections.Generic;
@@ -7,7 +7,7 @@ using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
 
-namespace Airline.Web.MessageBus
+namespace AirlineWeb.MessageBus
 {
     public class MessageBusClient : IMessageBusClient
     {

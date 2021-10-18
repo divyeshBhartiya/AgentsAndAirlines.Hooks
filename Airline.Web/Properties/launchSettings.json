@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "Airline.Web": {
+    "AirlineWeb": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "swagger",

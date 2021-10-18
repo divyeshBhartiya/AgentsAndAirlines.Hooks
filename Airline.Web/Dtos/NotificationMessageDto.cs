@@ -1,6 +1,6 @@
 using System;
 
-namespace Airline.Web.Dtos
+namespace AirlineWeb.Dtos
 {
     public class NotificationMessageDto
     {

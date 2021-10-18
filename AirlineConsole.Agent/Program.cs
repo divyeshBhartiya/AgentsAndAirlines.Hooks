@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AirlineConsole.Agent
+namespace AirlineAgentConsole
 {
     class Program
     {

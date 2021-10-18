@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace Airline.Web.Dtos
+namespace AirlineWeb.Dtos
 {
     public class FlightDetailUpdateDto
     {

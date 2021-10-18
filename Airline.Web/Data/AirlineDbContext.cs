@@ -1,11 +1,11 @@
-﻿using Airline.Web.Models;
+﻿using AirlineWeb.Models;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Airline.Web.Data
+namespace AirlineWeb.Data
 {
     public class AirlineDbContext : DbContext
     {

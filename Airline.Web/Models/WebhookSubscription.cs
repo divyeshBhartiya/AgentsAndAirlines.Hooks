@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Airline.Web.Models
+namespace AirlineWeb.Models
 {
     public class WebhookSubscription
     {

@@ -1,8 +1,8 @@
-using Airline.Web.Dtos;
-using Airline.Web.Models;
+using AirlineWeb.Dtos;
+using AirlineWeb.Models;
 using AutoMapper;
 
-namespace Airline.Web.Profiles
+namespace AirlineWeb.Profiles
 {
     public class FlightDetailProfile : Profile
     {

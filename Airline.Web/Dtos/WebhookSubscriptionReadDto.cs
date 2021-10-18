@@ -1,5 +1,5 @@
 
-namespace Airline.Web.Dtos
+namespace AirlineWeb.Dtos
 {
     public class WebhookSubscriptionReadDto
     {

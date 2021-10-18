@@ -1,8 +1,8 @@
 using AutoMapper;
-using Airline.Web.Dtos;
-using Airline.Web.Models;
+using AirlineWeb.Dtos;
+using AirlineWeb.Models;
 
-namespace Airline.Web.Profiles
+namespace AirlineWeb.Profiles
 {
     public class WebhookSubscriptionProfile : Profile
     {

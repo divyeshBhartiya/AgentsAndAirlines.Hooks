@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Airline.Web.Dtos
+namespace AirlineWeb.Dtos
 {
     public class FlightDetailCreateDto
     {

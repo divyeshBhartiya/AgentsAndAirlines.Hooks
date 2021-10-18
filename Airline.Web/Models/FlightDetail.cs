@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Airline.Web.Models
+namespace AirlineWeb.Models
 {
     public class FlightDetail
     {
