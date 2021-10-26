@@ -42,6 +42,7 @@ We also use Docker Compose to set up and run following solution fabric:
 RabbitMQ Server
 
 Microsoft SQL Server
+(Note: Instead of Docker setup I've used local setup of Microsoft SQL Server.)
 
 
 ## Courtesy:
